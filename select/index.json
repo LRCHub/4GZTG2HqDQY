@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ずるい人",
+  "base_artist": "Mr.EggPlant",
+  "createdAt": "2025-12-10T05:09:36.016304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ずるい人",
+      "artist": "川嶋あい",
+      "has_synced": false,
+      "path": "select/01_ずるい人_川嶋あい.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずるい人",
+      "artist": "Mr.EggPlant",
+      "has_synced": false,
+      "path": "select/pl_01_ずるい人_Mr.EggPlant.txt"
+    }
+  ]
+}
